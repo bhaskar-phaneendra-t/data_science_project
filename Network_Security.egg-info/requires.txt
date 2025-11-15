@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+numpy
+pymongo
+setuptools
+scikit-learn
+matplotlib
+seaborn
+pymongo[srv]==3.12
+pymongo
+dotenv
+certifi

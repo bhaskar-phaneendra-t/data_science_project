@@ -1,0 +1,2 @@
+[2025-11-11 17:00:22,053] 18 networksecurity.logging.logger -INFO -Entered try block
+[2025-11-11 17:00:22,053] 22 networksecurity.logging.logger -ERROR -Exception occurred:Error occurred in python script name [C:\Users\bhask\Downloads\data_science_project\networksecurity\exception\exception.py] line number [19] error message [division by zero] 
