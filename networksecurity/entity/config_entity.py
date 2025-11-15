@@ -19,7 +19,7 @@ class DataIngestionConfig():
             training_pipeline_config.artifact_dir,
             training_pipeline.DATA_INGESTION_DIR_NAME
         )
-        self.feature_store_file_paht:str=os.path.join(
+        self.feature_store_file_path:str=os.path.join(
             training_pipeline_config.artifact_dir,
             training_pipeline.DATA_INGESTION_FEATURE_STORE_DIR,
             training_pipeline.FILE_NAME
@@ -37,3 +37,6 @@ class DataIngestionConfig():
         self.train_test_split_ratio:float=training_pipeline.DATA_INGESTION_TRAIN_TEST_SPLIT_RATION
         self.collection_name:str=training_pipeline.DATA_INGESTION_COLLECTION_NAME
         self.database_name:str=training_pipeline.DATA_INGESTION_DATABASE_NAME
+
+
+         

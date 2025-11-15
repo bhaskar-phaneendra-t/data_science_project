@@ -1,0 +1,4 @@
+[2025-11-15 22:04:22,212] 16 root -INFO -initiate the data ingestion
+[2025-11-15 22:04:25,494] 82 root -INFO -performed train test split on dataframe
+[2025-11-15 22:04:25,494] 83 root -INFO -exited split_data_as_train_test method of data_ingestion class
+[2025-11-15 22:04:25,548] 95 root -INFO -exporting train and test file path
